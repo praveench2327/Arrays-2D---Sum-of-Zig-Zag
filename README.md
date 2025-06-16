@@ -1,1 +1,0 @@
-# Arrays-2D---Sum-of-Zig-Zag
